@@ -1,0 +1,8 @@
+[user]
+	name = Jan Bissinger (CI/CBW2)
+	email = jan.bissinger@sg.bosch.com
+[http]
+    proxy = http://127.0.0.1:3128
+#    proxy = http://rb-proxy-apac.bosch.com:8080
+[credential]
+	helper = cache --timeout 300
