@@ -115,4 +115,22 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-PATH=/home/bij81sgp/.local/bin:/home/bij81sgp/bin:/home/bij81sgp/.local/bin:/home/bij81sgp/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/osd/bin:/opt/osd/osd-client-scripts/bin:/opt/osd/osd-client-scripts/bin:/home/bij81sgp/dev/linux-bt-headset-connect/
+
+# Declaration of PATH variable
+PATH=/home/bij81sgp/.local/bin\
+:/home/bij81sgp/bin\
+:/home/bij81sgp/.local/bin\
+:/home/bij81sgp/bin\
+:/usr/local/sbin\
+:/usr/local/bin\
+:/usr/sbin\
+:/usr/bin\
+:/sbin\
+:/bin\
+:/usr/games\
+:/usr/local/games\
+:/snap/bin\
+:/opt/osd/bin\
+:/opt/osd/osd-client-scripts/bin\
+:/home/bij81sgp/dev/linux-bt-headset-connect\
+:/home/bij81sgp/bin/
